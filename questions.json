@@ -1,0 +1,47 @@
+{
+  "q1": {
+    "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+    "0": "largest railway station",
+    "1": "highest railway station",
+    "2": "longest railway station",
+    "3": "None of the above",
+    "id": "first",
+    "ans": "1"
+  },
+  "q2": {
+    "question": "Entomology is the science that studies",
+    "0": "Behavior of human beings",
+    "1": "Insects",
+    "2": "The origin and history of technical and scientific terms",
+    "3": "The formation of rocks",
+    "id": "second",
+    "ans": "1"
+  },
+  "q3": {
+    "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+    "0": "Africa",
+    "1": "Asia",
+    "2": "Europe",
+    "3": "Australia",
+    "id": "third",
+    "ans": "1"
+  },
+  "q4": {
+    "question": "Garampani sanctuary is located at",
+    "0": "Junagarh, Gujarat",
+    "1": "Diphu, Assam",
+    "2": "Kohima, Nagaland",
+    "3": "Gangtok, Sikkim",
+    "id": "fourth",
+    "ans": "1"
+  },
+  "q5": {
+    "question": "For which of the following disciplines is Nobel Prize awarded?",
+    "0": "Physics and Chemistry",
+    "1": "Physiology or Medicine",
+    "2": "Literature, Peace and Economics",
+    "3": "All of the above",
+    "id": "fifth",
+    "ans": "1"
+  }
+}
